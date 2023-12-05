@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6c3d121-7f31-440e-a1b5-28a1986b2ec5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../calculator/out/production/p-11/p-11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/p-11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trigonometricservice/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trigonometricservice/out/production/1/1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/TrigonometricService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/TrigonometricService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/TrigonometricServiceClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/TrigonometricServiceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/TrigonometricServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/TrigonometricServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/TrigonometricServiceServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/TrigonometricServiceServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/out/production/1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/out/production/1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/out/production/1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/out/production/1/1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/out/production/1/TrigonometricService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/out/production/1/TrigonometricServiceClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/out/production/1/TrigonometricServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-1/out/production/1/TrigonometricServiceServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/CalculatorClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/CalculatorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/CalculatorServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/out/production/p-11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/out/production/p-11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/out/production/p-11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/out/production/p-11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/out/production/p-11/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/out/production/p-11/CalculatorClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/out/production/p-11/CalculatorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/out/production/p-11/CalculatorServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/out/production/p-11/p-11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-11/p-11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/TicTacToe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/TicTacToeClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/TicTacToeImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/TicTacToeServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/out/production/p-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/out/production/p-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/out/production/p-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/out/production/p-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/out/production/p-2/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/out/production/p-2/TicTacToeClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/out/production/p-2/TicTacToeImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/out/production/p-2/TicTacToeServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/out/production/p-2/TicTacToeServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/out/production/p-2/p-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-2/p-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-4/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-4/.idea/p-4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-4/client1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-4/client2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p-4/server.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2Z8YoJ8v8JMbQtcqaAykw4eyMYD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/8th semester/PDS/lab/pds-lab-code-main/pds-lab-code-main/chatbot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6c3d121-7f31-440e-a1b5-28a1986b2ec5" name="Changes" comment="" />
+      <created>1701805346885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701805346885</updated>
+      <workItem from="1701805348110" duration="1019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
